@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    i18n (0.6.9)
+    money (6.0.0)
+      i18n (~> 0.6.4)
+    thor (0.18.1)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  money (~> 6.0.0)
+  thor (~> 0.18.1)
